@@ -2,7 +2,7 @@
 
 <br />
 
-hi, i'm Khaing Htoo Ko, a passionate self-taught data scientist from Myanmar. my passion for data sciencee lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Khaing Htoo Ko, a passionate self-taught learner from Myanmar. my passion for data analytics, Power Platform tools & IoT lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -24,9 +24,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Machine Learning   3 hrs 36 mins   ████████████░░░░░░░░░░░░░   47.76 %
-Tensorflow   2 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.26 %
-GCP         1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Power Platform Tools   3 hrs 36 mins   ████████████░░░░░░░░░░░░░   47.76 %
+Project Management   2 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.26 %
+English         1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
 Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
